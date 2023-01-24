@@ -1,0 +1,13 @@
+buka terminal gitbash
+git init
+npm init -y
+npm install -D tailwindcss
+npx tailwindcss init
+
+
+Link :
+1. https://tailwindcss.com/docs/installation
+2. https://www.youtube.com/watch?v=dFgzHOX84xQ&t=1246s
+
+
+kalau mau custom CSS bisa di add di input.css
